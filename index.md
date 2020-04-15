@@ -28,7 +28,7 @@ Il vas même réduire leurs espérance de vie.
 
 **Hypothèses secondaires :** 
 
-**Objectifs :** Comprendre le cycle de reproduction des individus toucher par la polution ou nan.
+**Objectifs :** Comprendre le cycle de reproduction des Pigeons toucher par la polution ou nan.
 
 **Critère(s) d'évaluation :** 
 
