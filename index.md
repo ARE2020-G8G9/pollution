@@ -1,29 +1,36 @@
 # Mon projet Test
 
-Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
+
+Au coeur de débats internationaux, la pollution est un phénomène majeur actuel et représente une réelle barrière pour l'avancée de l'économie.
+
+Aujourd'hui, les grandes questions concernent bien évidemment l'environnement. Il s'agit de trouver des solutions pour lutter contre cette pollution, nocif aux êtres vivants. Ainsi, je me propose d'étudier une des espèces touchée par cette déféctuosité, les Pigeons. Ces derniers recouvrent les rues de Paris et m’accompagne dans ma vie de parisienne.C’est donc sur ce terrain que je mènerai mon étude. 
 
 ## English version
 
-Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
+
+The impact of pollution on individuals will be the theme.
+
+At the heart of international debates, pollution is a major current phenomenon and represents a real barrier for the progress of the economy.
+
+Today, of course, the major issues concern the environment. It is about finding solutions to combat this pollution, which is harmful to living beings. Thus, I propose to study one of the species affected by this defect, the Pigeons. They cover the streets of Paris and accompany me in my life as a Parisian. It is on this ground that I will conduct my study.
 
 ## Présentation de l'équipe
 
-|(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
-|-----|--|--|--|
-| P. Bismuth| J. Doe | A. Onyme  | N. Nescio  |
-
+Sara fernandes Domingues 
 
 ## Description synthétique du projet
 
-**Problématique :** 
+**Problématique :** Comment la pollution affecte-t'elle la santé des Pigeons au cours du temps ?
 
-**Hypothèse principale :**
+**Hypothèse principale :** L’urbanisme Parisiens empiète sur le bon vivre sur la santé des Pigeons.
+Il vas même réduire leurs espérance de vie. 
+
 
 **Hypothèses secondaires :** 
 
-**Objectifs :**
+**Objectifs :** Comprendre le cycle de reproduction des individus toucher par la polution ou nan.
 
-**Critère(s) d'évaluation :**
+**Critère(s) d'évaluation :** 
 
 ## Présentation structurée des résultats
 
