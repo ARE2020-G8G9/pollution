@@ -3,10 +3,15 @@
 => Description hebdomadaire du travail effectué (variez les auteurs !)
 
 ### Semaine 1
-#### Auteur C. Herpson
-Ceci est mon travail
+#### Auteur Sara Fernandes
+ 
+ Tout d'abord avant de commencer à programmer et à vouloire aller trop vite jai pris l'initiative de suivre à la lettre ce que le prof a réaliser sur les deux vidéos envoyer , pour cloturer celle-ci . Jai donc par la suite fait des recherche sur mon sujet principale celui de la l'impacte de la polution sur les Pigeons pour pouvoir avancer dans projet en crée par la suite un arbre généalogique conciderer plutôt comme une carte mentale.Il a fallue pour cela faire des recherche aprofondie pour en extraire des information qui sont crutial pour avancer sur le projet . 
 
 ### Semaine 2
+### Auteur Sara Fernandes 
+
+
+
 ### Semaine 3
 ### ...
 
