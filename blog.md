@@ -10,6 +10,9 @@
 ### Semaine 2
 ### Auteur Sara Fernandes 
 
+Pour réaliser la carte mentale il a fallue que je m'organie de différente façons , pour cela jai du prendre en note toutes les points nécessaires à la réalisation des differentes branches et les complement des branches de ma cartes mentales qui me serra utiles.Celle-ci me permetteras par la suite de morganiser sur le déroulement de mes programmmation pour déterminer quelle serons les point à utiliser lors de la construction de mes programmes.Je parles de programmes au pluriels pour une simple est bonne raison , je veut avant tout determiner dans le premier programme,la reproduction de pigeons saint dan sun environnement poluer puis de même pour les pigeons madales pour finir avce un seul est même programme en réunisant les deux autres fait juste avant en prennet compte des modification pour obtenir un résultat montrant et justifiant mon hypothése de départ.
+Pour le programme gérales regroupent tout se que je veitn de dire juste au paravant je devrais metre des pourcentages ou bien des chifres mais cela est en cours de réalisation , en essaillant de tester differenes méthodes.
+
 
 
 ### Semaine 3
