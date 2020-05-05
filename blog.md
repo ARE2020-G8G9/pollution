@@ -32,4 +32,4 @@ Si il est malade alors mon hypothse et ma problématique sera donc vérifier .
 ### Semaine 5
 ### Sara fernandes 
 
-
+Cette fin de semaine est déterminate puisque le projet est à rendre en fin de cette semaine , je me doit de pofiner chaques données réel pour que mes programmations sois le plus claire possible ainsi que mes resultat pour pouvoir aboutir à la validation de lon hypotése et ma problématique de dépard 
