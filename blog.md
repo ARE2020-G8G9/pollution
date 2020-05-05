@@ -20,7 +20,6 @@ Pour le programme gérales regroupent tout se que je vient de dire juste au para
 
 Jai réaliser un code qui se prenomme "le monde" qui permet de modéaliser le monde dans lasqu'elle ils vivent , il permet de regrouper les animeaux sains et malades dans un même endroit.Aprés avoir réaliser ce programme je vais en suite determiner un autre programmme demontrant l'impacte rééle de la pollution sur les Pigeons .Le monde pour ainsi dire serra une cage dans lasquelle les pigeon serons enfermer dans un endrois de apris ou il y à de la polution , le faite d eles enfermer dans une cage cela me permeterra de voirs leurs évolution au cours du temps, en sachent qu'un pigeon dans un endroit séléctionner pour cette étude serra actif et ne passera donc pas toute sa vie ou des mois dans le même lieux . Il serras donc plus facile pour moi détudier dans un enroit precis et plus réstrains leurs avancer .
 
-<a href="index.html"> Retour à la page principale </a>
 
 ### Semaine 4 
 ### Auteur Sara Fernandes 
@@ -33,3 +32,5 @@ Si il est malade alors mon hypothse et ma problématique sera donc vérifier .
 ### Sara fernandes 
 
 Cette fin de semaine est déterminate puisque le projet est à rendre en fin de cette semaine , je me doit de pofiner chaques données réel pour que mes programmations sois le plus claire possible ainsi que mes resultat pour pouvoir aboutir à la validation de lon hypotése et ma problématique de dépard 
+
+<a href="index.html"> Retour à la page principale </a>
