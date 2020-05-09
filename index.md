@@ -43,11 +43,24 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 **Carte mentale de vos mots-clés, en utilisant** <a href="https://cdn.discordapp.com/attachments/692016757057126430/701066705471930408/unknown.png">Framindmap </a> 
 
 **Liste de références des cites utilisés:
+
 ##La Croix
 https://www.la-croix.com/Ethique/Environnement/Quand-l-air-est-pollue-les-pigeons-volent-plus-vite-2016-01-10-1402396
 
 ##BFM.TV
 https://www.bfmtv.com/planete/une-etude-revele-pourquoi-tant-de-pigeons-parisiens-sont-estropies-1805496.html
+
+##Persée
+https://www.persee.fr/doc/linly_1160-6398_1895_num_42_1_4057
+
+##Pigeons_vole.fr
+http://pigeon-vole.fr/site/index.php/la-vie-au-pigeonnier
+
+##La Boite à Outils SVT
+https://svt.ac-versailles.fr/IMG/archives/bosvt/ir.html
+
+##
+
 
 
 
