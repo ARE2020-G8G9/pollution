@@ -28,9 +28,9 @@ Il vas même réduire leurs capacité de vole.
 
 **Hypothèses secondaires :** 
 
-**Objectifs :** Comprendre le cycle de reproduction des Pigeons toucher par la polution ou nan.
+**Objectifs :** Comprendre l'adaptation au voles d'un pigeons sains toucher par la polution.
 
-**Critère(s) d'évaluation :** 
+**Critère(s) d'évaluation :** l'expérience du vole sur 100m
 
 ## Présentation structurée des résultats
 
