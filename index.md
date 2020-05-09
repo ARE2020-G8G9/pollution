@@ -23,7 +23,7 @@ Sara fernandes Domingues
 **Problématique :** Comment la pollution affecte-t'elle la santé des Pigeons au cours du temps ?
 
 **Hypothèse principale :** L’urbanisme Parisiens empiète sur le bon vivre sur la santé des Pigeons.
-Il vas même réduire leurs espérance de vie. 
+Il vas même réduire leurs capacité de vole.
 
 
 **Hypothèses secondaires :** 
@@ -42,6 +42,12 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 
 **Carte mentale de vos mots-clés, en utilisant** <a href="https://cdn.discordapp.com/attachments/692016757057126430/701066705471930408/unknown.png">Framindmap </a> 
 
-Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
+**Liste de références des cites utilisés:
+##La Croix
+https://www.la-croix.com/Ethique/Environnement/Quand-l-air-est-pollue-les-pigeons-volent-plus-vite-2016-01-10-1402396
+
+##BFM.TV
+https://www.bfmtv.com/planete/une-etude-revele-pourquoi-tant-de-pigeons-parisiens-sont-estropies-1805496.html
+
 
 
