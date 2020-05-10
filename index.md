@@ -59,7 +59,17 @@ http://pigeon-vole.fr/site/index.php/la-vie-au-pigeonnier
 ##La Boite à Outils SVT
 https://svt.ac-versailles.fr/IMG/archives/bosvt/ir.html
 
-##
+##20 Minutes
+https://www.20minutes.fr/paris/2575619-20190802-paris-peu-apprecies-parfois-mutiles-pigeons-paris-reseaux
+
+##Wiquipédia 
+https://fr.wikipedia.org/wiki/Pigeon_biset
+
+##Matplotlib
+https://www.science-emergence.com/Articles/Simple-diagramme-circulaire-avec-matplotlib/
+
+##Club Francais des Bagadais 
+https://club-francais-des-bagadais.jimdofree.com/le-club/la-race-les-standards-les-championnats-les-coupes-visites-d-élevages-etc/les-maladies-du-pigeon/
 
 
 
