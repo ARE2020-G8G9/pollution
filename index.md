@@ -79,6 +79,11 @@ En générale cette fonction tout  d’abord permet de réaliser  une moyenne de
 Puis, avec la fonction random, les oiseaux saints donc représenté par un seul oiseau sain grâce à la moyenne, auront plus ou moins de chance d’ouvrir le bec.
 Cette fonction renvoie un bool qui soit est True ça veut dire que oui les pigeons “saints” pas encore à 100%  peuvent être considéré comme malade ou soit ça renvoie False cela veut dire le contraire, que les pigeons “saints” ne sont pas encore en moyenne bien sûr  touché par cette  pollution.
 
+Analyse Critique:
+
+De mon point de vue j’ai trouvé ce projet enrichissant dans le sens où la recherche des éléments a été très instructif. Cela peut paraître simple d'un point de vue spectateur  mais lorsque que je commence à rentrer dans le vif du sujet il en paraît parfois t largement  plus compliquée que lors du départ de celui-ci. En effet, trouver des données sur les capacités respiratoires d’un pigeon est bien compliqué, vu le peu de données sur internet, d’où la nécessité d’estimer moi-même des valeurs. Mettre en valeurs des données réelles n’est pas si simple que ça chaque programme est différent mais ils consistent tous en un enchaînement de données permettant de finir en apothéose sur une conclusion peuvent parfois ne pas correspondre à nos idées de départ c'est pour cela que j'ai dû modifier et restituer  chaque informations que cela soit du plus utiles à l'ignorance . Mais cela est enrichissant dans le sens ou je doit mélanger tout type de programmation pour vérifier ce que je veut démontrer .
+
+
 
 ## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
 
