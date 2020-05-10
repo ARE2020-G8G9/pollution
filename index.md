@@ -36,17 +36,24 @@ Il vas même réduire leurs capacité de vole.
 
 Je vais expliquer en détails  chacuns des programmes qui ont été créé durant ces 6 semaines pour vérifier mon hypothèse et ma problématique de départ. 
 
-def monde_separe: Cette définition  renvoie la création du monde qui est une liste où les pigeons qui la composent sont rangés dans l’ordre c’est à dire de l'ordre des pigeons sains puis des pigeons malades qui seront chacun classés dans différentes cellules .Juste en bas de la définition il y aura un programme qui permettra la création d’un diagramme circulaire pour la situation avant l’expérience qui vas être lancé .
+def monde_separe: 
 
-def vulnérable: Elle renvoie l’indice du dernière pigeons sains qui serait situé le plus près d’un pigeons malade on peut le qualifier de sous code permettant de contribuer au code de transmission   
+Cette définition  renvoie la création du monde qui est une liste où les pigeons qui la composent sont rangés dans l’ordre c’est à dire de l'ordre des pigeons sains puis des pigeons malades qui seront chacun classés dans différentes cellules .Juste en bas de la définition il y aura un programme qui permettra la création d’un diagramme circulaire pour la situation avant l’expérience qui vas être lancé .
+
+def vulnérable: 
+
+Elle renvoie l’indice du dernière pigeons sains qui serait situé le plus près d’un pigeons malade on peut le qualifier de sous code permettant de contribuer au code de transmission   
 
 
-def transmission: Elle permet de réaliser la transmission de la pollution des pigeons malades aux pigeons saints aussi influencé par la pollution de l’atmosphère.
+def transmission: 
+
+Elle permet de réaliser la transmission de la pollution des pigeons malades aux pigeons saints aussi influencé par la pollution de l’atmosphère.
 Explication (contaminé de droite à gauche) car les pigeon saints sont  gauche et les malade a droite) , 
 
 Ce code ressort une liste de pourcentage de maladie pour chaque pigeon, et pour se faire, il faut rentrer une heure pour obtenir une liste qui ressort ça a un moment donnée  puisque cela évolue car la contamination ne s'arrêtera donc pas  sauf quand toute la populations sera  contaminée ,  ducoup ce code  fait ressortir la liste à un moment pile pendant la transmission  
 
 def asemblage_pigon_transmission: 
+
 Permet de renvoyer l’assemblage de la liste monde_separe qui deviennent des clefs  de la liste transmission. Cette fonction associe les pigeon selon leur statut (0 ou 1) à leur état de maladie.
 Elle  corrige aussi le dictionnaire  renvoyé dans la fonction précédente, par exemple on peut avoir des pigeons saints qui sont tombés entièrement malade (100%) donc leur statut passe de 0 à 1.
 
@@ -59,10 +66,14 @@ et [20, 45, 69] c’est la liste de santé dans l'ordre que renvoie ‘transmiss
 La fonction assemblage va renvoyer: {‘je’:20, ‘tu’:45, ‘il’:69} cela associe les je , tu et il à leurs nombre .  
 
 
-def division_sante_apres: C’est un “sous-code” qui sert à rendre le pourcentage de pigeon sain et malade dans un tuple après le temps données  puisque les pigeons saints vont diminuer et les pigeons malade vont augmenter. Ce code permet de créer le diagramme en secteurs pour la situation ‘après expérience’ 
+def division_sante_apres:
+
+C’est un “sous-code” qui sert à rendre le pourcentage de pigeon sain et malade dans un tuple après le temps données  puisque les pigeons saints vont diminuer et les pigeons malade vont augmenter. Ce code permet de créer le diagramme en secteurs pour la situation ‘après expérience’ 
 Juste après ce code il y aura un code permettant la création d’un diagramme circulaire après expérience .
 	
-def vol: Elle réalise  l'expérience de vol sauf que l’on prend pas on compte la distance mais bien l’ouverture de leur bec. Celle-ci utilise une fonction aléatoire (‘random’) car on peut pas prévoir dans la vrai vie si ils vont ouvrir leur bec ou pas c pour  ça que j'utilise une fonction random qui sera déterminé ,  précisé par son état de santé.   J’utilise son état de santé pour sa probabilité d’ouvrir le bec.
+def vol:
+
+Elle réalise  l'expérience de vol sauf que l’on prend pas on compte la distance mais bien l’ouverture de leur bec. Celle-ci utilise une fonction aléatoire (‘random’) car on peut pas prévoir dans la vrai vie si ils vont ouvrir leur bec ou pas c pour  ça que j'utilise une fonction random qui sera déterminé ,  précisé par son état de santé.   J’utilise son état de santé pour sa probabilité d’ouvrir le bec.
 
 En générale cette fonction tout  d’abord permet de réaliser  une moyenne des états de santé de tous les gens qui sont pas à 100% donc de tous les 0.
 Puis, avec la fonction random, les oiseaux saints donc représenté par un seul oiseau sain grâce à la moyenne, auront plus ou moins de chance d’ouvrir le bec.
