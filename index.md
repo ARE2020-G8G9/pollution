@@ -30,7 +30,7 @@ Il vas même réduire leurs capacité de vole.
 
 **Objectifs :** Comprendre l'adaptation au voles d'un pigeons sains toucher par la polution.
 
-**Critère(s) d'évaluation :** l'expérience du vole sur 100m
+**Critère(s) d'évaluation :** l'expérience du bec ouvert qui prouve que le pigeons aprés sont vole est bien malade 
 
 ## Présentation structurée des résultats
 
